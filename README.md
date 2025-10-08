@@ -3,7 +3,8 @@
 A minimal three-app OAuth 2.0 demo inspired by the book **[OAuth 2 in Action](https://www.manning.com/books/oauth-2-in-action)** and the companion repo **[oauthinaction/oauth-in-action-code](https://github.com/oauthinaction/oauth-in-action-code)**.
 It shows the **Authorization Code** flow end-to-end with simple in-memory stores.
 
-https://excalidraw.com/#json=CWRTLZJeI2jC1YNaqN4Rd,UvYOfHGQmhh_qYHFkjKb2w
+Diagram: 
+![My diagram](./diagram.svg)
 
 ---
 
