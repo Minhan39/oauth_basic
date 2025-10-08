@@ -4,7 +4,7 @@ A minimal three-app OAuth 2.0 demo inspired by the book **[OAuth 2 in Action](ht
 It shows the **Authorization Code** flow end-to-end with simple in-memory stores.
 
 Diagram: 
-![My diagram](./diagram.svg)
+![My diagram](./diagram.png)
 
 ---
 
